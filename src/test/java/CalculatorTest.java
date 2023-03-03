@@ -6,6 +6,7 @@ import java.util.Set;
 import static org.junit.Assert.*;
 //Adding a comment to be able to push changes
 //Adding a second comment to push changes
+//Adding third comment to push changes
 public class CalculatorTest {
 
     @Test
