@@ -4,6 +4,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 import static org.junit.Assert.*;
+//Adding a comment to be able to push changes
 public class CalculatorTest {
 
     @Test
